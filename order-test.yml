@@ -16,4 +16,4 @@ server:
 env: test2
 person: 
   name: zhangsan
-  age: 65
+  age: 18
