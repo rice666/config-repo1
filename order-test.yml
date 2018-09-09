@@ -12,7 +12,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 server:
-  port: 8088
+  port: 8086
 env: test456
 person: 
   name: zhangsan
