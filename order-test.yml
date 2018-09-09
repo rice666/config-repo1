@@ -13,7 +13,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 server:
   port: 8086
-env: test099
+env: test1099
 person: 
   name: zhangsan
   age: 65
